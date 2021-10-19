@@ -1,0 +1,46 @@
+Dicas de estudos:
+1. Técnica Pomodoro
+25 minutos de foco e 5 minutos de intervalo
+Não precisa ser exatamente cronometrado, mas pausas são importantes
+
+2. Ter um lugar reservado para estudo
+
+Dicas de aprendizado:
+Aprender a se questionar
+Aprender a ensinar: repetir o que sabe
+
+Anotação e revisão
+Anotar mais após a aula
+Revisar as anotações e buscar respostas para dúvidas
+
+Pesquisar sempre!
+
+O cérebro precisa de tempo para assimilar conhecimentos novos
+Descanso faz parte do aprendizado (pausas e sono)
+
+Persistência é importante
+
+Programar é encontrar soluções!
+
+Não se comparar com outras pessoas, mas se comparar com o "eu" do passado
+
+O sentimento de "só estou copiando e colando" é normal, pois muitas resoluções de problemas já existem e o ato de resolver problemas complexos vem com a experiência.
+
+-- Projeto --
+Crachá Virtual para a DoWhile
+Serve como cartão virtual
+
+-- Aula 01 --
+Programar é ensinar o computador
+Algoritmo, lógica de programação, sintaxe
+
+Algoritmo: 
+Passo a passo de uma ação
+
+Lógica de programação:
+Lógica de pensamento, forma de se resolver problemas
+
+Sintaxe:
+Maneira correta de escrever (comandos do código)
+
+Senha do Desafio: #RumoAoPróximoNível
