@@ -1,0 +1,48 @@
+-- Aula 02 --
+-HTML-
+<p id = "meuid">Conteúdo</p>
+
+p = tag
+id = atributo
+"meuid" = valor do atributo
+conteúdo = conteúdo que irá aparecer na tela
+
+-CSS-
+body{
+  color: white;
+}
+
+body = seletor
+color: white = declaração
+color = propriedade
+white = valor
+
+O último valor sempre será a configuração mostrada
+
+Especificidade:
+Inline > Tag Style no HTML > Seletor de ID > Seletor de classe, pseudo classe, atributo > Seletor de Elemento
+
+Unidades de medida:
+Estático : pixels
+Responsivo: porcentagem
+
+Tags que não levam conteúdo interno fecham em si mesmo
+
+1 rem = 16 px
+
+object-fit:cover; = faz com que a imagem preencha todo o tamanho estipulado. Útil para ajustar imagens que ficam "esticadas" após o ajuste de tamanho
+
+clio-path: polygon(); = propriedade CSS para formatar elementos com um formato poligonal 
+Ferramenta = https://bennettfeely.com/clippy/ (clip css no google)
+
+z-index: 1; = configuração do eixo Z dos elementos (eixo de profundidade)
+
+list-style: none; = retira o marcador das listas
+
+
+display: flex = flexbox 
+flex-direction: column; = determina a direção do flex
+gap: 0.5rem; = distancia entre os elementos de uma <ul> qd usado display:flex ou grid
+justify-content: center; = centralizar os elementos no centro qd usado display:flex ou grid
+
+#Protagonistas
