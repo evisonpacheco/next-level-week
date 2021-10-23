@@ -1,0 +1,54 @@
+Melhor forma de fixar conhecimento é ensinando (Tentar esclarecer dúvidas sempre que possível no Discord da Rocketseat)
+
+Foco = entendeu o meu momento e focar nessa base de conhecimentos
+Prática = para encontrar problemas, resolver esses problemas e adquirir experiência
+Comunidade = para compartilhar conhecimentos
+
+-- Javascript --
+Executa os comandos da esquerda para a direita, de cima para baixo e um após o outro (síncrono)
+
+Pode ser colocado no <head> ou antes do fechamento do <body>
+
+Começar a codar em inglês
+
+- Objetos em JavaScript -
+
+agreement : true //Tipo de dado simples
+
+Objetos servem para guardar vários dados que tem uma correlação em uma única variável
+
+//Tipo de dado estruturado
+let user = { //Dentro de um objeto usar : ao invés de = para definir os valores
+  name : 'Evison Pacheco',
+  phone : 912345678,           
+}
+
+Para exibir a propriedade de um objeto deve-se chamar o "caminho" do conteúdo
+alert(user.name)
+
+Para mudar o conteúdo da propriedade em um objeto tbm deve-se mostrar o "caminho"
+user.name = 'Evison'
+
+- Funções -
+Quando se cria uma variável apenas para receber o valor de uma função não precisa declarar com var, let ou const
+
+function showMe(text){ //text = variável
+  alert(text)
+}
+
+showMe ('Testando 1 2 3') // Nesse caso a string 'Testando 1 2 3' seria passada para a função showMe que armazenaria essa string dentro da variável text
+
+#Dica de Boa Prática  = para manipular o DOM preferir usar o 'id' ao invés de usar 'class'. Pois 'id' é um identificador único
+
+#Dica = ao pegar o elemento por 'id' é possível simplificar o comando, por exemplo:
+userName.textContent = 'Evison'
+Onde 'userName' é o id
+
+- Repetição com id e elementos children -
+for (let li of socialMediaLinks.children){
+
+}
+
+Verifica todos os children do elemento com id socialMediaLinks
+
+#ImaginarConstruirTransformar
